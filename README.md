@@ -2,13 +2,19 @@
 
 ## Setup
 
-npm install
-rnpm link react-native-svg
+`npm install`
+
+`npm install rnpm -g # React-Native package manager`
+
+`rnpm link react-native-svg`
 
 ## Running
 
-For iOS: react-native run-ios
-For Android: react-native run-android
+For iOS: 
+  `react-native run-ios`
+  
+For Android: 
+  `react-native run-android`
 
 ## What it is
 A very very very quick port of a D3-generated graph to react-native-svg, showing that it shouldn't be terribly difficult to port non-interactive D3 graphs, or even a subset of D3 itself.
