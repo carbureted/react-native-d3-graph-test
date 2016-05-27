@@ -25,3 +25,5 @@ It's not super trivial to make the graph itself interactive :(
 Hypothetically it should be possible to put an onPress hook on any SVG element, but this didn't work in the 60 seconds I played with it so I didn't do it. 
 
 I also suspect making interactive d3 graphs with a high-quality touch UX and a good mouse UX would be impossible, which kills my dream of sharing the exact same visualization code between desktop, android, and iOS.
+
+![Screenshot](http://i.imgur.com/MWsiZYL.png)
